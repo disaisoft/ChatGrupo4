@@ -1,2 +1,8 @@
 # ChatGrupo4
-Chat aleatorio del grupo #4 - Somos los mejores
+Los integrantes del grupo 4 somos los mejores
+
+
+Integrantes: Alexander Oquendo, Lena Pulgarin, John Jairo Restrepo, 
+David López, Alexis Alvarez, German Ballesteros
+
+Por favor, ejecutar con Node app.js
